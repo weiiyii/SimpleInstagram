@@ -41,7 +41,14 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        queryPosts()
+        findViewById<Button>(R.id.logout_button).setOnClickListener {
+            ParseUser.logOut()
+            val intent = Intent(this, LoginActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
+
+
     }
 
     private fun submitPost(description: String, user: ParseUser, picture: File) {
