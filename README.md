@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 ![sign up and login in to the account](./walkthrus/signup&login.gif)
 
-![sign out of the account](./walkthrus/signout.gif) 
+![sign out of the account](./walkthrus/logout.gif) 
 
 ![user persists upon exit the app](./walkthrus/userPersists.gif) 
 
