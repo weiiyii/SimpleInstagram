@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SimpleInstagram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">2Iid2EpYHNzO5X6uCTPSHn5fFY9BMQtLYFsHHhHU</string>
+    <string name="back4app_client_key">Y2tzvEr9raoP8QOrfuDTdatVmBW1FhswuqO5frcA</string>
 </resources>
