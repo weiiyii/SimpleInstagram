@@ -12,6 +12,9 @@ The following **required** functionality is completed:
 - [ ] User can log in and log out of his or her account.
 - [ ] The current signed in user is persisted across app restarts.
 - [ ] User can take a photo, add a caption, and post it to "Instagram".
+- [ ] User can view the last 20 posts submitted to "Instagram".
+- [ ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 
 ## Video Walkthrough
@@ -24,7 +27,11 @@ Here's a walkthrough of implemented user stories:
 
 ![user persists upon exit the app](./walkthrus/userPersists.gif) 
 
-![create a post](./walkthrus/createPost.gif) 
+![view posts](./walkthrus/viewPosts.gif)  
+
+![navigate](./walkthrus/navigate.gif) 
+
+![profile](./walkthrus/profile.gif) 
 
 ## Notes
 
